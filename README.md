@@ -1,1 +1,5 @@
-# Tamra
+### Hi there 
+
+T'm Ahmed from Egypt , and I do web development . i really enjoy learning new technology about front-end development , specially React framework , and i love problem solving and kinda like working in Wordpress  , you can check out my linkedIn at www.linkedin.com/in/ahmed-tamer-jr
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamerJr)](https://github.com/anuraghazra/github-readme-stats)
