@@ -1,6 +1,6 @@
 ### Hi there 👋, Ahmed Tamer
 #### Front-End Developer
-![Front-End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Front-End Developer]
 
 I'm Ahmed from Egypt , and I do web development . i really enjoy learning new technology about front-end development , specially React framework , and i love problem solving and kinda like working in Wordpress , you can check out my linkedIn at www.linkedin.com/in/ahmed-tamer-jr
 
